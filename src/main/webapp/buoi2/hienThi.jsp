@@ -36,7 +36,7 @@ Thong tin nuoc hoa:
         <tr>
             <td>${nh.id}</td>
             <td>${nh.ten}</td>
-            <td>${nh.soLuong}</td>
+            <td>${nh.soLuong}</td
             <td>${nh.gia}</td>
             <td>
                 <a href="/buoi2/chi-tiet?id=${nh.id}">Chi tiet</a>
